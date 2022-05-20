@@ -1,0 +1,23 @@
+{
+  "name": "rp_demo_package",
+  "version": "0.1.0",
+  "description": "my first demo package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajapandi1212/demo_package.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Rajapandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajapandi1212/demo_package/issues"
+  },
+  "homepage": "https://github.com/Rajapandi1212/demo_package#readme"
+}
